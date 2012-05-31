@@ -1,0 +1,40 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: NxCV1l9wPTRIUF0eifrZQfD2orc=
+
+Name: res/layout/main.xml
+SHA1-Digest: ybt38YM+Wm5LpYhKzonYAvaRxNI=
+
+Name: res/layout/device_list.xml
+SHA1-Digest: /j7FlfX1Q3QwRE6N3CksVqVEJnA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: ffp2AZpU6QaP/8tl7WRrw8XdmWE=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: zSBo0hBNc4K46aIFvlD4ZmQBHcg=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: YuN8HjuH/csIGA1V8jxQw62DV0A=
+
+Name: res/layout/message.xml
+SHA1-Digest: T2iLh1s2BcjRZcmXImlMQV/9jbc=
+
+Name: res/layout/device_name.xml
+SHA1-Digest: JNpqecsZO8z0j7Ly96zAI+LcF38=
+
+Name: res/menu/option_menu.xml
+SHA1-Digest: z4MME7ccuT+GVI6ZpVC+40OtQmc=
+
+Name: resources.arsc
+SHA1-Digest: i9y6lvVx4h+K33jmWEOraSUXkyg=
+
+Name: classes.dex
+SHA1-Digest: /B1vIf6onHWMkvXrYudJiifOtvc=
+
+Name: res/layout/custom_title.xml
+SHA1-Digest: XrZ33YlXSUQVNtvkdqUqR9/kiwI=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: edY5GhthxxpZN3rJpWsoorrticI=
+
