@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello" />
+    <Button
+        android:id="@+id/connectOBD"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/connectOBD"
+        />
+    <TextView
+        android:id="@+id/temperature"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+        android:id="@+id/MotoSpeed"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+        android:id="@+id/CarSpeed"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+    <com.android.liujun.indicateView 
+        android:id="@+id/indicate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+        </com.android.liujun.indicateView>
+    
+
+</LinearLayout>
